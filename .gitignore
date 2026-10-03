@@ -1,0 +1,13 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build outputs
+bin/
+obj/
+*.user
+
+# Local environment & secrets
+.env
+appsettings.Development.json
